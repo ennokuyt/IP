@@ -23,7 +23,7 @@ Creating the model further improved my programming skills in Python, especially 
 ## The result:
 In my opinion, we have a very nice end result in the form of a fully functional criminal network model. The model does precisely what it should for now, but there are many opportunities to extend upon its functionality. When designing the functions, I already focused on the future, making sure they would still run effortlessly under straightforward full-model adaptations. Moreover, a lot of functions are made in such a way that Frederike should easily be able to extend it. The data collector is set-up and any model data that needs to be stored can be added rather simple, making it possible for Frederike to do analyses. I hope this model will prove to be a base for much research that Frederike is planning to do in the future, and that I tutored her enough so that she can create her own extensions without further help!
 
-[1]: Diviák, T. (2020). Criminal networks: actors, mechanisms, and structures.'\n'
+[1]: Diviák, T. (2020). Criminal networks: actors, mechanisms, and structures.\n
 [2]: Campana, P. (2016). Explaining criminal networks: Strategies and potential pitfalls. Methodological Innovations, 9, 2059799115622748.
 [3]: Martinez-Vaquero, L. A., Dolci, V., & Trianni, V. (2019). Evolutionary dynamics of organised crime and terrorist networks. Scientific reports, 9(1), 1-10.
 [4]: Bright, D., Koskinen, J., & Malm, A. (2019). Illicit network dynamics: The formation and evolution of a drug trafficking network. Journal of Quantitative Criminology, 35(2), 237-258.
