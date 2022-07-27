@@ -6,7 +6,7 @@
 ### UvA ID: 11869399
 
 # Readme
-This Github page holds all relevant information regarding my individual project. In this Readme, one can read a short summary of the project. More importantly, on the page, one can find the related code files. Most files are small snippets of the main file, _Model_COMPLETE.ipynb_,  
+This Github page holds all relevant information regarding my individual project. In this Readme, one can read a short summary of the project. More importantly, on the page, one can find the related code files. Most files are small snippets of the main file, _Model_COMPLETE.ipynb_, that have been individually created before integration. The main file exists of some helper functions... 
 
 
 ## Introduction:
