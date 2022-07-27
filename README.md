@@ -25,9 +25,7 @@ In my opinion, we have a very nice end result in the form of a fully functional 
 
 [1]: Diviák, T. (2020). Criminal networks: actors, mechanisms, and structures.  
 [2]: Campana, P. (2016). Explaining criminal networks: Strategies and potential pitfalls. Methodological Innovations, 9, 2059799115622748.  
-
 [3]: Martinez-Vaquero, L. A., Dolci, V., & Trianni, V. (2019). Evolutionary dynamics of organised crime and terrorist networks. Scientific reports, 9(1), 1-10.  
-
 [4]: Bright, D., Koskinen, J., & Malm, A. (2019). Illicit network dynamics: The formation and evolution of a drug trafficking network. Journal of Quantitative Criminology, 35(2), 237-258.
 
 
